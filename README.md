@@ -23,6 +23,20 @@ It places 2 Hardware Breakpoints: one on `AmsiScanBuffer` and another on `NtTrac
 # Example:
 ![image](https://github.com/user-attachments/assets/1ad9283c-057e-4e30-be0b-a7c3303dabf5)
 
+# Resources
+
+Hosting the CLR Natively -> https://github.com/etormadiv/HostingCLR
+
+Microsoft Documentation on CLR Hosting using COM Interfaces -> https://learn.microsoft.com/en-us/dotnet/framework/unmanaged-api/hosting/clr-hosting-interfaces
+
+VX API (recommended for maldev snippets) -> https://github.com/rad9800/hwbp4mw
+
+Maldev Academy for learning about Malware Development -> https://maldevacademy.com
+
+Information about Wininet from Microsoft -> https://learn.microsoft.com/en-us/windows/win32/wininet/about-wininet
+
+Gists for Wininet Windows Library for HTTP Requests -> https://gist.github.com/AhnMo/5cf37bbd9a6fa2567f99ac0528eaa185
+
 # DISCLAIMER
 
 ## IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
