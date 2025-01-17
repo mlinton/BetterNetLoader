@@ -29,7 +29,9 @@ Hosting the CLR Natively -> https://github.com/etormadiv/HostingCLR
 
 Microsoft Documentation on CLR Hosting using COM Interfaces -> https://learn.microsoft.com/en-us/dotnet/framework/unmanaged-api/hosting/clr-hosting-interfaces
 
-VX API (recommended for maldev snippets) -> https://github.com/rad9800/hwbp4mw
+Hardware Breakpoint Sample Code (recommended for maldev snippets) -> https://github.com/rad9800/hwbp4mw
+
+VX-API (recommended for maldev snippets) -> https://github.com/vxunderground/VX-API
 
 Maldev Academy for learning about Malware Development -> https://maldevacademy.com
 
