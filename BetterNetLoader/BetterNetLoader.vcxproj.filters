@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="HwBpEngine.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BetterNetLoader.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mscorlib.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="HwBpEngine.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="DotnetExecute.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{bd664979-cf07-4c0e-bd84-745823d4e1aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{6d1a61fd-07e6-474a-b6c4-c3877f989f8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
