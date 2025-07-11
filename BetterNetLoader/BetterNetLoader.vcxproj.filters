@@ -10,6 +10,21 @@
     <ClCompile Include="BetterNetLoader.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="Http.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Base64.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalFileReaderA.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="winternal.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadLibrary.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mscorlib.h">
@@ -19,6 +34,21 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="DotnetExecute.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Http.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Base64.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalFileReaderA.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="winternal.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadLibrary.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,10 +1,5 @@
 #include <Windows.h>
 
-BOOL HwbpEngineBreakpoint(
-    _In_ ULONG Position,
-    _In_ PVOID Function
-);
+bool SetUniqueHardwareBreakpoint(unsigned int slot, void* targetAddr);
 
-BOOL HwbpEngineHandler(
-    _Inout_ PEXCEPTION_POINTERS Exceptions
-);
+LONG HandleUniqueHwbpException(PEXCEPTION_POINTERS exPtrs);

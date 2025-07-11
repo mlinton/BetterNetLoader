@@ -128,14 +128,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Base64.cpp" />
     <ClCompile Include="BetterNetLoader.cpp" />
+    <ClCompile Include="Http.cpp" />
     <ClCompile Include="HwBpEngine.cpp" />
+    <ClCompile Include="LoadLibrary.cpp" />
+    <ClCompile Include="LocalFileReaderA.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="winternal.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Base64.h" />
     <ClInclude Include="DotnetExecute.h" />
+    <ClInclude Include="Http.h" />
     <ClInclude Include="HwBpEngine.h" />
+    <ClInclude Include="LoadLibrary.h" />
+    <ClInclude Include="LocalFileReaderA.h" />
     <ClInclude Include="mscorlib.h" />
+    <ClInclude Include="winternal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
